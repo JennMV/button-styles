@@ -11,3 +11,19 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  background-color: #000;
+}
+
+.btn-subtle {
+  background-color: #333;
+}
+
+.btn-ghost {
+  background-color: #fff;
+}
+
+.btn-warning {
+  background-color: #ccc;
+}
